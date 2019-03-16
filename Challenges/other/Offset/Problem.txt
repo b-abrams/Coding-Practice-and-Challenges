@@ -1,0 +1,2 @@
+Function intakes an array that is sorted at an offset (ex. [4, 5, 1, 2, 3]))
+Return the index at which the array is offset (ex. 2)
